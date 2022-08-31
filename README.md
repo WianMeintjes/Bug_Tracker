@@ -1,2 +1,2 @@
 # Bug_Tracker
-The project needs some tlc with functionality and to put all the pieces in place
+Two files with the same content...one file is more design orientated and another more functional
